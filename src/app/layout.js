@@ -16,7 +16,7 @@ export const metadata = {
     siteName: 'LinkUnshorten',
     images: [
       {
-        url: 'https://linkunshorten.com/og-image.png', // Add your OG image later
+        url: 'D:\Downloads\AI\linkunshorten\public\icon.svg', // Add your OG image later
         width: 1200,
         height: 630,
         alt: 'LinkUnshorten - Check Short Link Safety',
